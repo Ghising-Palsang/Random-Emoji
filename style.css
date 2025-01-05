@@ -1,0 +1,36 @@
+.container{
+    height:60vh;
+    display: flex;
+    justify-content: center;
+    align-items: space-between;
+    width: 40%;
+    margin:0 auto;
+    background-color: #588157;
+    border:2px solid black;
+    border-radius:10px;
+}
+
+p{
+    font-size:4rem;
+}
+
+h1{
+    color:azure;
+}
+
+button{
+    font-size: 1rem;
+    background-color: #bde0fe;
+    color:#283618;
+    border-radius: 8px;
+    position:fixed;
+    top:350px;
+}
+
+.emoji,
+.btn-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
