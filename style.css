@@ -36,7 +36,7 @@ h1{
 .container{
     height:60vh;
     max-width: 100%;
-    width: clamp(250px, 30%, 500px);
+    width: clamp(300px, 30%, 500px);
 
     display: flex;
     justify-content: space-between;
@@ -61,8 +61,7 @@ h1{
        
        
     }
-}   
-
+} 
 
 button{
     font-size: 1.5rem;
@@ -74,3 +73,4 @@ button{
 
 
 
+  
